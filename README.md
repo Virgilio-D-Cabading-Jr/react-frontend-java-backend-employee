@@ -7,3 +7,5 @@ Origin: Spring.io tutorial: https://spring.io/guides/tutorials/react-and-spring-
 Language: Java, Javascript
 
 Framework: Spring Boot
+
+Library: React.js
